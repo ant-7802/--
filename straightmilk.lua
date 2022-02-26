@@ -211,7 +211,7 @@ table.insert(cors,sandbox(LocalScript13,function()
 script.Parent.MouseButton1Click:Connect(function()
 
 	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(""..script.Parent.Parent.Parent.pt1.TextBox.Text.."                                                                                                   " ..
-		"                                                ["..script.Parent.Parent.Usernamee.Text.."]: "..script.Parent.Parent.Usernamee.Text.."","All")
+		"                                                ["..script.Parent.Parent.Usernamee.Text.."]: "..script.Parent.Parent.Chathaxxx.Text.."","All")
 end)
 end))
 LocalScript14.Parent = Frame6
