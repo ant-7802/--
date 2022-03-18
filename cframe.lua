@@ -5,7 +5,7 @@ die = false
     	    die = true
     	end)
 if cframenew == nil then
-    cframenew = Cframe.new(0,0,0)
+    cframenew = CFrame.new(0,0,0)
     end
     game:GetService("RunService").Heartbeat:connect(function() 
             if die == false then
