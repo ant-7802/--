@@ -1,3 +1,6 @@
+if _G.MADEBYANTGAME11 == "Made by antgame11 on v3rm <3" then
+    else return
+    end
 local TeleportService = game:GetService("TeleportService")
 local args = {
     [1] = {
